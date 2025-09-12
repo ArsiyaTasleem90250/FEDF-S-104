@@ -1,0 +1,8 @@
+git init
+git config --global user.name "ArsiyaTasleem90250"
+git config --global user.email "2400090250@kluniversity.in"
+git add .
+git commit -m "Done!"
+git remote add origin https://github.com/ArsiyaTasleem90250/FEDF-S-104.git
+git push -u origin master
+git remove remove origin
