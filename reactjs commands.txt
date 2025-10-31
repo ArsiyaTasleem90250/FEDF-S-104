@@ -1,0 +1,9 @@
+npm create vite@latest DemoApp
+demoapp
+React
+JavaScript
+No
+No
+cd DemoApp
+npm install
+npm run dev
